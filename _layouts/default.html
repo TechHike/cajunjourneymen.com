@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>
+			{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}
+		</title>
+		<link rel="alternate" type="application/atom+xml" title="ATOM" href="feed.xml" />
+		
+		<link rel="icon" href="https://lh3.googleusercontent.com/-59fo_CNM_Qo/TsLYD9-RH7I/AAAAAAAADok/-upQD2Hkqwg/s32/cj_favicon.png" />
+		<link rel="SHORTCUT ICON" href="https://lh3.googleusercontent.com/-59fo_CNM_Qo/TsLYD9-RH7I/AAAAAAAADok/-upQD2Hkqwg/s32/cj_favicon.png" />
+		<link rel="apple-touch-icon" href="https://lh3.googleusercontent.com/-59fo_CNM_Qo/TsLYD9-RH7I/AAAAAAAADok/-upQD2Hkqwg/s32/cj_favicon.png" />
+
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1" />
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black" />	
+
+		<script src="//code.jquery.com/jquery-1.6.2.min.js"></script>
+		<link rel="stylesheet" href="/base.css"/>
+
+		<script type="text/javascript" src="/base.js"></script>
+	
+		<link href="http://fonts.googleapis.com/css?family=Droid+Sans:400,700|Ubuntu+Condensed" rel="stylesheet" type="text/css" />
+
+	</head>
+	<body>
+		<div id="heading-wrap">
+			<a href="index.html">
+				<div id="heading-logo"></div>
+			</a>
+		</div>
+		
+		<div id="body-wrap">
+			<div id="main">
+				{{ content }}
+			</div>
+
+			<div id="nav">
+				<div class="nav-section nav-section-1">
+					<ul>
+						<li><a href="/index.html">Home</a></li>
+						<li><a href="/roster.html">Roster</a></li>
+					</ul>
+				</div>
+				<div class="nav-section nav-section-2">
+					<ul>
+						<li><a href="alaska-2010.html">Alaska 2010</a></li>
+						<li><a href="wyoming-2009.html">Green River, Wyoming 2009</a></li>
+						<li><a href="glacier-2008.html">Montana &amp; Glacier 2008</a></li>
+						<li><a href="wonderland-2005.html">Wonderland Trail 2005</a></li>
+						<li><a href="colorado-2004.html">Colorado 14ers 2004</a></li>
+						<li><a href="yosemite-2003.html">Yosemite 2003</a></li>
+						<li><a href="colorado-2002.html">Colorado CDT 2002</a></li>
+						<li><a href="wonderland-2001.html">Wonderland Trail 2001</a></li>
+					</ul>
+				</div>
+
+				<div class="clear"></div>
+				
+			</div>
+			<div class="clear"></div>
+		</div>
+
+    </body>
+</html>

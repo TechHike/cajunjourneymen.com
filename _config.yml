@@ -1,0 +1,7 @@
+name: CajunJourneymen
+title: "Cajun Journeymen"
+url: http://cajunjourneymen.com
+markdown: redcarpet
+permalink: /:year/:month/:day/:title
+timezone: "US/Pacific"
+exclude: ['README.md']
