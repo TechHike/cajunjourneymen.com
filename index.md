@@ -8,6 +8,12 @@ Hi there, we are the Cajun Journeymen. Our goal is to explore great wilderness a
 There's nothing like crossing a ridge in the high country to discover a new valley, or traversing through berry laden lowlands watching bears feast on the bounty of summer. These are the treats and treasures that we find out in the wilderness. These are our stories.
 
 <div class="vinette">
+<a href="alaska-2010.html"><img src="https://photos.google.com/share/AF1QipMTDF2tH_Lenyg_oNKCECVbw2_cIx6QdKGIEoBNwIywJsLsqPzYcm0Whf5cYdYLyg/photo/AF1QipPLQMrCKNSiF1boPsRaBofupoJg4UgTN1FSyOvP?key=aDJRODg0aGxBM0lSd2FOUDFhSnlfVU1hUEtDUEJ3" alt="" /></a>
+<a href="cajunjourneymen-v2.html">Journeymen 2.0</a>
+</div>
+
+
+<div class="vinette">
 <a href="alaska-2010.html"><img src="http://lh4.googleusercontent.com/-zMyw0wd2myM/Tn0GpCsi9PI/AAAAAAAACzc/kqHtVOwe4jM/Slide25%25255B4%25255D.jpg" alt="" /></a>
 <a href="alaska-2010.html">Alaska 2010</a>
 </div>
