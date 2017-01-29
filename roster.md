@@ -3,7 +3,7 @@ title: "Roster"
 layout: page
 ---
 
-###Keith Simon 
+### Keith Simon 
 
 ![](http://lh3.googleusercontent.com/-y3Oin4YL5GE/Tn64fB9A_jI/AAAAAAAAC0c/9CpTWLK_ZT4/dc9pcbdc_0fhqhq6cv_b.jpg)
 
@@ -11,7 +11,7 @@ Keith is the architect and engineer of our adventures. No one is more dedicated 
 
 <div class="clear"></div>
 
-###Mike Simon
+### Mike Simon
 
 ![](http://lh3.googleusercontent.com/-w0lmDBQ_Ros/Tn64fN6s4mI/AAAAAAAAC0Y/6O0a1U58OS4/dc9pcbdc_1pkpdr5cs_b.jpg)
 
@@ -19,7 +19,7 @@ Mike is the free spirit and motivator of the group. He is responsible for suppli
 
 <div class="clear"></div>
 
-###Clint Simon
+### Clint Simon
 
 ![](http://lh3.googleusercontent.com/-_LepZL6nvkI/Tn64573NsoI/AAAAAAAAC0w/iroyHZKJBIg/tumblr_l6rn5lhERb1qb2glio1_r1_400.jpg)
 
@@ -27,27 +27,27 @@ Clint is the founder of the group - suggesting a week long hike on the Wonderlan
 
 <div class="clear"></div>
 
-###Jeff Simon
+### Jeff Simon
 Jeff is the consummate pro, while young in age he is long on experience. As an eagle scout Jeff serves as a pillar for the group, driving the team to cover ground, setting up camp and
 
-###Brian Guidry
+### Brian Guidry
 Brian is a man out to push his own limits. Having never been on a mountain in his entire life, Brian completed 3 grueling adventures with The Journeymen in Colorado and Yosemite. He even endured constant razzing from the group in the process! By the way, if you meet Brian, don't bring up half dome.
 Michael Guidry
 
-###Neal Simon
+### Neal Simon
 Neal is the hellcat. Willing to charge ahead to unknown territory and carry fellow Journeymen piggy-back over a stream. No one is more gung-ho than Neal, not even close.
 
-###Jeremy Simon
+### Jeremy Simon
 
-###Bill Vidacovich
+### Bill Vidacovich
 
-###Jeffery Vidacovich
+### Jeffery Vidacovich
 
-###Erroll Babineaux
+### Erroll Babineaux
 
-###Walter "Coon Watch" Comeaux
+### Walter "Coon Watch" Comeaux
 
-###John "Yankee" Zuschlag
+### John "Yankee" Zuschlag
 
-###Justin "Dingo" Back
+### Justin "Dingo" Back
 
