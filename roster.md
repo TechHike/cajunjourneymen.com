@@ -36,3 +36,18 @@ Michael Guidry
 
 ###Neal Simon
 Neal is the hellcat. Willing to charge ahead to unknown territory and carry fellow Journeymen piggy-back over a stream. No one is more gung-ho than Neal, not even close.
+
+###Jeremy Simon
+
+###Bill Vidacovich
+
+###Jeffery Vidacovich
+
+###Erroll Babineaux
+
+###Walter "Coon Watch" Comeaux
+
+###John "Yankee" Zuschlag
+
+###Justin "Dingo" Back
+
