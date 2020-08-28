@@ -1,6 +1,5 @@
 name: CajunJourneymen
 title: "Cajun Journeymen"
-url: http://cajunjourneymen.com
 permalink: /:year/:month/:day/:title
 timezone: "US/Pacific"
 exclude: ['README.md']
